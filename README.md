@@ -12,7 +12,7 @@ Steps on how to create a GitHub page:
   <li>Perform the necessary operation in creating your repository and pushing your files.</li>
   <li>Then, in your repository, go to your settings, and go to your Page tab.</li>
   <li>Make sure that you are in your working branch, and in your /root folder (keep note that this may vary according to users).</li>
-  <li>Wait for a few minutes, and check your GitHub page by going to your username.github.io/<your-repository></li>
+  <li>Wait for a few minutes, and check your GitHub page by going to your username.github.io/(your-repository-name)</li>
 </ul>
 
 What are your key takeaways from this exercise?:
